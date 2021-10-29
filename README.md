@@ -10,7 +10,7 @@ Store FCM Tokens in Database by using PHP and PDO.
 - PHP PDO and MYSQLI Module
 - Firebase account Setup for Push Service
 
-Learn More about this API Usage Here - <https://github.com/mskian/subscribe>
+Learn More about this API Usage Here - <https://github.com/mskian/subscribe-auth-push>
 
 ## LICENSE
 
